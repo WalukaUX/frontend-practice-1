@@ -187,6 +187,7 @@ p {
   display: flex;
   width: 700px;
   height: 100px;
+  padding-top: 20px;
 }
 .sub{
   height: 100PX;
