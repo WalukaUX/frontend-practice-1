@@ -1,0 +1,233 @@
+body {
+  width: 1440px;
+  margin: 0;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 20px;
+  background-image: url(images/bg-header-desktop.png);
+  background-repeat: no-repeat;
+}
+
+.logo {
+  position: relative;
+  margin-top: 150px;
+  margin-left: 600px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 2rem;
+  color: rgb(135, 112, 120);
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 1.5rem;
+  color: rgb(135, 112, 120);
+}
+
+p {
+  font-weight: 500;
+  line-height: 1.5;
+  font-family: 'Bai Jamjuree', sans-serif;
+  color: rgb(173, 161, 165);
+}
+
+.btn1 {
+  margin-left: 480px;
+  background: linear-gradient(to bottom, rgb(3, 252, 152) 5%, rgb(21, 209, 134) 100%);
+  background-color: rgb(21, 209, 134);
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 17px;
+  border: 1px solid rgb(3, 252, 152);
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 1px 0 rgb(99, 128, 116);
+}
+
+.btn2 {
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  font-size: 17px;
+  border: 1px solid rgb(66, 212, 245);
+  color: white;
+  font-weight: bold;
+  background: linear-gradient(to bottom, rgb(66, 212, 245) 5%, rgb(3, 132, 252) 100%);
+  text-shadow: 0 1px 0 rgb(99, 128, 116);
+}
+
+.btn1:hover {
+  background: linear-gradient(to bottom, rgb(247, 101, 150) 5%, #ededed 100%);
+  border: none;
+}
+
+.btn2:hover {
+  background: linear-gradient(to top, rgb(247, 101, 150) 5%, #ededed 100%);
+  border: none;
+}
+
+.comptr {
+  float: left;
+  padding-right: 100px;
+}
+
+.divmidh4 {
+  text-align: left;
+  line-height: normal;
+}
+
+.divmidh41 {
+  text-align: left;
+  line-height: normal;
+  padding-top: 45px;
+}
+
+.mid2 {
+  padding-top: 200px;
+}
+
+.device {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  font-size: 16px;
+}
+
+.img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 200px;
+  height:40px;
+}
+
+.img2 {
+  padding-left: 200px;
+  height: 36px;
+}
+
+.img3 {
+  padding-left: 200px;
+  height: 36px;
+}
+
+.bot1 {
+  width: 500px;
+  height: 250px;
+}
+
+.bot2 {
+  width: 500px;
+  height: 250px;
+}
+
+.bot3 {
+  width: 500px;
+  height: 250px;
+}
+
+.imagebox {
+  padding: 100PX 100PX 100PX 100PX;
+}
+
+.Googleimg {
+  padding-right: 90px;
+}
+
+.IBM {
+  padding-right: 90px;
+}
+
+.windo {
+  padding-right: 90px;
+}
+
+.hp {
+  padding-right: 90px;
+}
+
+.footer {
+  height:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logobottomimage {
+  height: 50PX;
+  width: 50PX;
+}
+
+.logobottombox {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+}
+
+.h5s{
+  display: flex;
+  width: 700px;
+  height: 100px;
+}
+.sub{
+  height: 100PX;
+  width: 200PX;
+}
+.sub2{
+  height: 100PX;
+  width: 400PX;
+}
+.sub3{
+  height: 100PX;
+  width: 200PX;
+}
+.imagestweetFB{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 300px
+}
+.FBbot{
+  padding-right: 20px;
+}
+.tweetbot{
+  padding-right: 20px;
+}
+.attribution{
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+.lastbox{
+  background-color: #f5f5f0;
+  padding-top: 20px;
+}
+.lastbox:hover{
+  background-color: #e0e0d1;
+  color: black;
+}
+a{
+  color:  #666666;
+  font-weight: bold;
+  text-decoration: none;
+}
